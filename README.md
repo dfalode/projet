@@ -1,4 +1,4 @@
-Website title: Happy Face
+Website title: Smile maxxing
 
 All roles are mine, because I want to do this alone since it’s not impossible.
 
