@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   html, body {
+    height: 100%
+   }
+   h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 16px
+   }
+   @font-face{
+    font-family: font;
+    src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
+   }
+   @font-face{
+    font-family: font1;
+    src: url(../fonts/Roboto-VariableFont_wdth\,wght.ttf);
+   }
+   @font-face{
+    font-family: font2;
+    src: url(../fonts/Roboto-Italic-VariableFont_wdth\,wght.ttf);
+   }
+   .web{
+    min-height: 100%; 
+  }
+   nav{
+    min-height: 100%;
+    width: 319px;
+    background-color: green;
+    position: fixed;
+    align-content: center;
+    font-size: 30px;
+    font-family: font1;
+   }
+   .unique{
+    color: yellow;
+    font-family: font;
+   }
+   .uniquest{
+    color: yellow;
+    font-family: font;
+   }
+   nav a{
+    text-decoration: none;
+    color: #000;
+    margin-left: 130px;
+   }
+   .a{
+    height: 50px;
+   }
+   .b{
+    height: 200px;
+    width: 100px;
+   }
+   .c{
+    margin-left: 50px;
+    width: 250px;
+    font-size: 40px;
+    }
+   .title{
+    height: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 40px;
+    }
+    p{
+        margin-left: 450px;
+    }
+    .box{
+        width: 1244px;
+        height: 700px;
+        background-color: #000;
+        margin-left: 580px;
+        background-image: url(../images/smile.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .box1{
+        width: 1200px;
+        height: 1000px;
+        background-color: #000;
+        margin-left: 610px;
+        background-image: url(../images/meme.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 100px;
+    }
+    .p1{
+        width: 500px;
+        height: 400px;
+        margin-left: 990px;
+        font-family: font;
+    }
+    p1{
+        margin-left: 10px;
+    }
+    p1 a{
+        margin-left: 10px;
+        font-size: 30px;
+        text-decoration: none;
+        color: #000;
+    }
+    p2{
+        margin-left: 10px;
+    }
+    .box2{
+        background-color: #000;
+        width: 900px;
+        height: 584px; 
+        margin-left: 790px;
+        border-radius: 272px;
+        background-image: url(../images/g.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .grass{
+        font-weight: bold;
+    }
+    .box3{
+        background-color: #000;
+        width: 1050px;
+        height: 584px;
+        margin-left: 700px;
+        border-radius: 200px;
+        background-image: url(../images/sing.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .p2{
+        width: 500px;
+        height: 400px;
+        margin-left: 990px;
+        font-family: font;
+    }
+    .box4{
+        width: 1000px;
+        height: 584px;
+        background-color: #000;
+        margin-left: 730px;
+        background-image: url(../images/wazz.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 272px;
+    }
+    .box5{
+        background-color: #000;
+        width: 1100px;
+        height: 584px; 
+        margin-left: 650px;
+        border-radius: 250px;
+        background-image: url(../images/dog.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .box6{
+        background-color: #000;
+        width: 800px;
+        height: 1084px;
+        margin-left: 830px;
+        border-radius: 272px;
+        background-image: url(../images/rat.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .box7{
+        height: 1500px;
+        width: 1244px;
+        background-color: #000;
+        margin-left: 580px;
+        background-image: url(../images/ye.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        color: #ffffff;
+    }
+    .contact-form {
+        display: flex;
+        flex-direction: column;
+        font-size: 30px;
+        height: 1350px;
+        width: 1280px;
+        margin-top: 400px;
+        margin-left: 430px;
+        font-family: font2;
+        color: #ffffff;
+    }
+    .asterisk{
+        color: #ffffff;
+    }
+    .input-box{
+        width: 450px;
+        height: 50px;
+        margin-bottom: 100px;
+    }
+    .submit {
+        color: #fff;
+        width: 246px;
+        height: 76px;
+        padding: 20px 60px;
+        margin-left: 100px;
+        border-radius: 40px;
+        font-family: font2;
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
+    .box8{
+        background-color: #000;
+        width: 800px;
+        height: 584px;
+        border-radius: 272px;
+        background-image: url(../images/lie.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .box12{
+        background-color: #000;
+        width: 800px;
+        height: 584px;
+        margin-left: 830px;
+        border-radius: 100px;
+    }
+    .box9{
+        background-color: #000;
+        width: 800px;
+        height: 584px; 
+        border-radius: 272px;
+        background-image: url(../images/cuisine.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .box10{
+        background-color: #000;
+        width: 800px;
+        height: 584px; 
+        border-radius: 272px;
+        background-image: url(../images/project.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    p3 a{
+        margin-left: 10px;
+        font-size: 30px;
+        text-decoration: none;
+        color: #000;
+    }
+    .box11{
+        background-color: #000;
+        width: 800px;
+        height: 584px; 
+        border-radius: 272px;
+        background-image: url(../images/icebaby.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .email{
+        height: 550px;
+        margin: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .uniquer{
+        font-family: font1;
+        color: yellow;
+    }
+    p4{
+        font-family: font2;
+        font-size: 40px;
+    }
+    p5{
+        font-family: font2;
+        font-size: 30px;
+    }
+    input{
+  padding: 5px;
+  border-radius: 10px;
+  border-width: 10px;
+    }
+    
+    
+
