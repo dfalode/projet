@@ -269,10 +269,8 @@
     p4{
         font-family: font2;
         font-size: 40px;
-    }
-    p5{
-        font-family: font2;
-        font-size: 30px;
+        margin-left: -800px;
+        margin-top: -55px;
     }
     input{
   padding: 5px;
