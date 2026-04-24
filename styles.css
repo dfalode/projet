@@ -173,6 +173,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         display: flex;
+        align-content: center;
         flex-direction: column;
         color: #ffffff;
     }
@@ -277,6 +278,35 @@
   border-radius: 10px;
   border-width: 10px;
     }
-    
+    .box100{
+        width: 1500px;
+        height: 1000px;
+        color: #000;
+        padding: 500px;
+    margin-right:4000px ;
+    }
+textarea{
+  padding: 5px;
+  border-radius: 10px;
+  border-width: 10px;
+  border-color:  black red;
+}
+textarea:hover{
+    font-size: 20px;
+    border-color: yellow;
+}
+input{
+  padding: 5px;
+  border-radius: 10px;
+  border-width: 10px;
+  border-color:  red black;
+}
+input:hover{
+  font-size: 20px;
+  border-color: green;
+}
+legend{
+    margin-left: -25px;
+}
     
 
