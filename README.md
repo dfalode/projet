@@ -1,3 +1,4 @@
+Team name: Spiritual coding.
 Website title: Smile maxxing
 
 All roles are mine, because I want to do this alone since it’s not impossible with my God as my life partner.
